@@ -1,3 +1,5 @@
+## This repository has been moved to: https://github.com/kaushikjadhav01/Movie-Recommendation-Chatbot
+
 # Movie-Recommendation-Chatbot
 The chatbot uses a recommendation engine to suggest <b>similar movies</b> with their IMDB links and posters. In addition, it also provides information about the following properties of the movie input by the user:
 <ul>
@@ -66,5 +68,14 @@ Step 7: Initiate Bot
 Navigate to the folder where the main python script exists and run the code below.
 
 python main.py
+
+## Authors
+### Kaushik Jadhav
+<ul>
+<li>Github:https://github.com/kaushikjadhav01</li>
+<li>Medium:https://medium.com/@kaushikjadhav01</li>
+<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
+</ul> 
+
 
 
